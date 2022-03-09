@@ -1,2 +1,2 @@
 # undergrad
-Programs from undergrad classes
+Programs from undergrad classes. Each program contained in a different branch.
