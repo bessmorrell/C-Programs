@@ -5,3 +5,5 @@ the file is not readable, the program will exit and provide an error message.
 The audio decoder reads a WAV file and decrypts the message hidden in the LSBs.
 The audio file name in provided using command line arguments. If the file name is not provided or 
 the file is not readable, the program will exit and provide an error message.
+
+Both programs require get_wav_args.c and get_wav_args.h
