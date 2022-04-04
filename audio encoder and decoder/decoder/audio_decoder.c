@@ -2,11 +2,7 @@
  * This program reads a WAV audio file and prints the decrypted message hidden in the LSBs. The file name 
  * is provided using command line arguments. If the file name is not provided or the file is not readable, 
  * the program will exit and provide an error message.
- *
- * @author Bess Morrell {@literal <pluf@wfu.edu>}
  * @date Mar. 29, 2021
- * @assignment Lab 5  
- * @course CSC 250
  **/
 
 #include "get_wav_args.h"
