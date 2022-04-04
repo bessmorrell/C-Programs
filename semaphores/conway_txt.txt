@@ -1,0 +1,7 @@
+1234*6**9*ABCDEFGHI*
+*bcdefghij**bcdefghi
+*****XXXXXabcdefghij
+********************
+********************
+ABCDEFGHIJKLMNOPQRST
+**                 Z
