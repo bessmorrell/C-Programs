@@ -1,6 +1,6 @@
 # simple makefile for compiling
 
-EXECUTABLE = lab5
+EXECUTABLE = audio_decoder
 COMPILE_FLAGS = -ansi -pedantic -Wall
 
 $(EXECUTABLE): audio_decoder.o get_wav_args.o
