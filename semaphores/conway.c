@@ -1,3 +1,10 @@
+/** 
+*  The solution contains 3 concurrent processes: 
+*  producer: reads cards and insterts the string <EOL> when necessary
+*  squash: looks for double asterisks and passes a stream of modifies characters
+*  print: prints characters as 125-character lines
+**/
+
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
