@@ -4,11 +4,4 @@ Write a program to read 80-column cards and write them as 125-character lines wi
 the following changes. After every card image the string <EOL>  is inserted. Every adjacent pair of 
 asterisks  ** is replaced by a #. 
   
-An example column card looks like:
-1234*6**9*ABCDEFGHI*
-*bcdefghij**bcdefghi
-*****XXXXXabcdefghij
-********************
-********************
-ABCDEFGHIJKLMNOPQRST
-**                 Z
+An example column card is provided as conway.txt
