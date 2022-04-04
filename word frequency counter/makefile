@@ -1,7 +1,7 @@
 # simple makefile for compiling
 
-SOURCE = lab3.c
-EXECUTABLE = lab3
+SOURCE = word_freqs.c
+EXECUTABLE = word_freqs
 COMPILE_FLAGS = -ansi -pedantic -Wall -g
 
 all: $(SOURCE)
