@@ -1,4 +1,4 @@
-This program finds the exponantial model and logistic model for a population data matrix, and returns which model better fits the data by summing and comparing the absolute value of the distance between the data and each model.
+This program finds the exponential model and logistic model for a population data matrix, and returns which model better fits the data by summing and comparing the absolute value of the distance between the data and each model.
 
 Example output:
 
