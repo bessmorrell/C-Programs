@@ -1,5 +1,12 @@
 This program solves the Lotka-Volterra differential equations to model a predator-prey relationship and outputs 2 figures.
 
+Lotka-Volterra equations:
+
+$$\begin{flalign}
+ \frac{dx}{dt} &= \alpha x - \beta x y, \\
+ \frac{dy}{dt} &= \delta x y - \gamma y,
+\end{flalign}$$
+
 Figure 1 shows population of the two species over time.
 
 <img src="figure1.png" width="500">
